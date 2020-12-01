@@ -28,6 +28,7 @@ const childVariants = {
     },
   },
 };
+
 const Order = ({ pizza }) => {
   return (
     <motion.div
